@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-gupta-a277211b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-gupta-a277211b0/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-gupta-a277211b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-gupta-a277211b0/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UClw6zlEH8XkboNKkCjLJrUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclw6zleh8xkbonkkcjljruw" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/r04itgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/r04itgupta" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user//r04itgupta/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="/r04itgupta/profile" height="30" width="40" /></a>
