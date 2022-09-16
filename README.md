@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lucidrohit@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rohit-gupta-a277211b0]
+- 📄 Know about my experiences [https://www.linkedin.com/in/lucidrohit]
 
 - ⚡ Fun fact **My touch typing speed is 87.6 wpm**
 
