@@ -31,6 +31,6 @@
 [![wakatime](https://wakatime.com/badge/user/2d17ce26-1611-4757-bf95-fdb0da64fc74.svg)](https://wakatime.com/@lucidrohit)
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucidrohit&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucidrohit&theme=tokyonight" width="50%"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucidrohit&layout=compact&theme=tokyonight)](https://yasio.pl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucidrohit&layout=compact&theme=tokyonight)](https://www.linkedin.com/in/lucidrohit)
 
 ---
