@@ -34,3 +34,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucidrohit&layout=compact&theme=tokyonight)](https://www.linkedin.com/in/lucidrohit)
 
 ---
+  [![@lucidrohit's Holopin board](https://holopin.io/api/user/board?user=lucidrohit)](https://holopin.io/@lucidrohit)
