@@ -28,7 +28,7 @@
 <div style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
 
 ---
-[![wakatime](https://wakatime.com/badge/user/2b31da5c-20d4-4179-ad4a-dd62eac2d95b/project/59e45227-1035-4fbf-907d-75285588d44c.svg)](https://wakatime.com/badge/user/2b31da5c-20d4-4179-ad4a-dd62eac2d95b/project/59e45227-1035-4fbf-907d-75285588d44c)
+[![wakatime](https://wakatime.com/badge/user/2b31da5c-20d4-4179-ad4a-dd62eac2d95b.svg)](https://wakatime.com/badge/user/2b31da5c-20d4-4179-ad4a-dd62eac2d95b/project/59e45227-1035-4fbf-907d-75285588d44c)
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucidrohit&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucidrohit&theme=tokyonight" width="50%"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucidrohit&layout=compact&theme=tokyonight)](https://www.linkedin.com/in/lucidrohit)
