@@ -33,5 +33,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lucidrohit&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucidrohit&theme=tokyonight" width="50%"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucidrohit&layout=compact&theme=tokyonight)](https://www.linkedin.com/in/lucidrohit)
 
----
-  [![@lucidrohit's Holopin board](https://holopin.io/api/user/board?user=lucidrohit)](https://holopin.io/@lucidrohit)
