@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Traway.live](https://traway.live/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next.js 13 and React Native**
 
 - 💬 Ask me about **Node.js, React.Js, Flask, Sockets, MongoDb**
 
