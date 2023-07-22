@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucidrohit&label=Profile%20views&color=0e75b6&style=flat" alt="lucidrohit" /> </p>
 
-- 🔭 I’m currently working on [Traway.live](https://traway.live/)
+- 🔭 I’m currently working on [Traway.live](https://traway.live/) and [KampusKitchen](https://kampus-kitchen.vercel.app/home)
 
 - 🌱 I’m currently learning **Next.js 13 and React Native**
 
